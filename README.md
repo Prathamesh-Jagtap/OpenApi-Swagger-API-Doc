@@ -26,7 +26,7 @@ This is a simple Spring Boot application demonstrating the integration of OpenAP
 # Clone the repository
 
 ```bash
-git clone https://github.com/your-repo/spring-boot-openapi-demo.git
+https://github.com/Prathamesh-Jagtap/OpenApi-Swagger-API-Doc.git
 cd OpenApi-Swagger-API-Doc
 ```
 
